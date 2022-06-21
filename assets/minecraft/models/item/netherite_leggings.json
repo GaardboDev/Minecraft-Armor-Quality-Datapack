@@ -1,0 +1,16 @@
+{
+    "credit": "Jibbzie",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_leggings"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data":1200}, "model": "n_leggings/common"},
+        {"predicate": {"custom_model_data":1201}, "model": "n_leggings/uncommon"},
+        {"predicate": {"custom_model_data":1202}, "model": "n_leggings/rare"},
+        {"predicate": {"custom_model_data":1203}, "model": "n_leggings/epic"},
+        {"predicate": {"custom_model_data":1204}, "model": "n_leggings/legendary"},
+        {"predicate": {"custom_model_data":1205}, "model": "n_leggings/mythic"}
+    ]
+}

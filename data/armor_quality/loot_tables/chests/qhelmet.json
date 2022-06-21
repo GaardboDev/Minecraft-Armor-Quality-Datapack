@@ -1,0 +1,100 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 33,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Common\",\"color\":\"white\"}']},CustomModelData:1200,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1339815866,-1259584194,-1562031283,-765534808],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;1377481078,-2077406571,-2071554329,-340925924],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1557426811,646073986,-1596226691,-1454888409],Slot:\"head\"}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 30,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Uncommon\",\"color\":\"green\"}']},CustomModelData:1201,q:1,AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:2,Operation:0,UUID:[I;1912935272,-98677232,-1866220171,-1284269868],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1289300928,1857570685,-1282489781,312668689],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;2079563520,1361791621,-1814176940,2002815768],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;817671817,-461878098,-2057023715,-1263012809],Slot:\"head\"}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 20,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Rare\",\"color\":\"blue\"}']},CustomModelData:1202,q:1,AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:4,Operation:0,UUID:[I;-901247246,238896461,-1497066169,1429314893],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-309550262,803555555,-1668815056,26734407],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;914767064,987775751,-1136043665,918089093],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-2106742028,927875346,-1697478128,-1274496874],Slot:\"head\"}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Epic\",\"color\":\"dark_purple\"}']},CustomModelData:1203,q:1,AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:6,Operation:0,UUID:[I;-1388875177,1780568037,-1458788073,-900854753],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1599863186,-26391489,-1661533870,1044188563],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;1737512200,210781119,-1357669908,-1196976418],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;107327346,-389855522,-1102582280,141103890],Slot:\"head\"}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Legendary\",\"color\":\"gold\"}']},CustomModelData:1204,q:1,AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:8,Operation:0,UUID:[I;-1682148447,621628815,-2060063791,-1841853053],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-563700550,-369472346,-1261639131,1555428183],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;-1337996084,-1218034062,-1359682415,-599729990],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-480249446,2107066204,-1160686875,-1506043095],Slot:\"head\"}]}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Lore:['{\"text\":\"Mythic\",\"color\":\"dark_red\"}']},CustomModelData:1205,q:1,AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:10,Operation:0,UUID:[I;-2094820421,633880576,-1263276670,752031630],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1584892308,990136876,-2033065890,-1417731920],Slot:\"head\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;370771453,-569946834,-1143363874,-1016240589],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;1726748431,-750696619,-1617661567,-606099024],Slot:\"head\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

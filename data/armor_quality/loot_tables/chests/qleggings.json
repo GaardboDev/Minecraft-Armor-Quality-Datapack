@@ -1,0 +1,100 @@
+{
+    "type": "chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 33,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Common\",\"color\":\"white\"}']},CustomModelData:1200,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-870733565,1686193928,-1305128980,-120241910],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-2084674947,-540391503,-1556821247,-1718160127],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1010769295,986007605,-1102888075,1817502724],Slot:\"legs\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 30,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Uncommon\",\"color\":\"green\"}']},CustomModelData:1201,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1519384259,1083131040,-1270094140,-615406553],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-428216204,1986544175,-1913333100,-805831050],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1237676542,-1094627783,-1112574659,2079385703],Slot:\"legs\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:2,Operation:0,UUID:[I;1081163177,-1975631489,-1472464759,-1223408073],Slot:\"legs\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 20,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Rare\",\"color\":\"blue\"}']},CustomModelData:1202,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1971184572,-1676390620,-2084318586,-1205973485],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-130617999,-1856352303,-1945683116,-1210542393],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1268840168,-1107081158,-1407306376,-2132657223],Slot:\"legs\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:4,Operation:0,UUID:[I;815198359,1942372400,-2074994038,-455144802],Slot:\"legs\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 10,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Epic\",\"color\":\"dark_purple\"}']},CustomModelData:1203,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1779758434,1425621092,-1534250603,-390665715],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-1040743723,438782353,-1246530990,-1477841851],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;17550356,-1755692093,-1568207895,781604206],Slot:\"legs\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:6,Operation:0,UUID:[I;-1243937420,-942128060,-1776293867,-1432800299],Slot:\"legs\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 5,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Legendary\",\"color\":\"gold\"}']},CustomModelData:1204,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;2078446867,-1239527867,-1978110927,1364917890],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;2023530244,90459845,-1575502146,138530744],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-644848539,1844004672,-1671625765,-20785814],Slot:\"legs\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:8,Operation:0,UUID:[I;1634778882,-794016711,-1683297033,-609806173],Slot:\"legs\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:netherite_leggings",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Mythic\",\"color\":\"dark_red\"}']},CustomModelData:1205,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1993847707,-230930377,-1420247170,-851293585],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;1832338021,1270957149,-1236837904,1500901527],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;572845511,524174845,-1543981360,-1562099001],Slot:\"legs\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:10,Operation:0,UUID:[I;-298813506,1771848279,-1839164541,-1523993960],Slot:\"legs\"}]}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

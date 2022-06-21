@@ -1,0 +1,16 @@
+{
+    "credit": "Jibbzie",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_helmet"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data":1200}, "model": "n_helmets/common"},
+        {"predicate": {"custom_model_data":1201}, "model": "n_helmets/uncommon"},
+        {"predicate": {"custom_model_data":1202}, "model": "n_helmets/rare"},
+        {"predicate": {"custom_model_data":1203}, "model": "n_helmets/epic"},
+        {"predicate": {"custom_model_data":1204}, "model": "n_helmets/legendary"},
+        {"predicate": {"custom_model_data":1205}, "model": "n_helmets/mythic"}
+    ]
+}

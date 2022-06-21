@@ -1,0 +1,16 @@
+{
+    "credit": "Jibbzie",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_chestplate"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data":1200}, "model": "n_chestplates/common"},
+        {"predicate": {"custom_model_data":1201}, "model": "n_chestplates/uncommon"},
+        {"predicate": {"custom_model_data":1202}, "model": "n_chestplates/rare"},
+        {"predicate": {"custom_model_data":1203}, "model": "n_chestplates/epic"},
+        {"predicate": {"custom_model_data":1204}, "model": "n_chestplates/legendary"},
+        {"predicate": {"custom_model_data":1205}, "model": "n_chestplates/mythic"}
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 33,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Common\",\"color\":\"white\"}']},CustomModelData:1200,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1779183410,-874166563,-2143948548,-257924753],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;1892972798,-982105444,-1381674340,1979650581],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;320528322,1356285016,-2103974542,370345998],Slot:\"chest\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 30,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Uncommon\",\"color\":\"green\"}']},CustomModelData:1201,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1547104214,1856588841,-1321141528,-284444105],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;2113083255,725960002,-2095782596,-2102134096],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1502329881,436290142,-2086848915,-2022782237],Slot:\"chest\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:2,Operation:0,UUID:[I;481464617,-1309391092,-1969563478,-1672704020],Slot:\"chest\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 20,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Rare\",\"color\":\"blue\"}']},CustomModelData:1202,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1027469311,1622101662,-1236478471,882372783],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;-1642132346,1026248342,-2143455073,-378690172],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;378202076,-786675477,-1090715432,1268548600],Slot:\"chest\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:4,Operation:0,UUID:[I;154864644,1226002213,-1599796259,-1310439132],Slot:\"chest\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 10,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Epic\",\"color\":\"dark_purple\"}']},CustomModelData:1203,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1549118386,1624721785,-2002938443,444456279],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;759129256,1218725999,-1805693457,-908546460],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;741489181,-475182313,-1283689321,-1307230052],Slot:\"chest\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:6,Operation:0,UUID:[I;5067172,-1967699265,-2132396822,646101702],Slot:\"chest\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 5,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Legendary\",\"color\":\"gold\"}']},CustomModelData:1204,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;35806092,-778420073,-1092160392,-691818859],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;-1316777070,-945864075,-1861664774,1235460165],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;1981709192,-557167540,-1938566743,-2103455331],Slot:\"chest\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:8,Operation:0,UUID:[I;-1284563921,-155040040,-1408601915,1515414993],Slot:\"chest\"}]}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:netherite_chestplate",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{display:{Lore:['{\"text\":\"Mythic\",\"color\":\"dark_red\"}']},CustomModelData:1205,q:1,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-1927679494,1081164819,-1930176403,-483296133],Slot:\"chest\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:8,Operation:0,UUID:[I;-591202679,-2033564376,-1901997366,-2067047330],Slot:\"chest\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-273156685,1550732626,-1628967143,1321326085],Slot:\"chest\"},{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:10,Operation:0,UUID:[I;-913658876,118703579,-1167506084,1460618229],Slot:\"chest\"}]}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
